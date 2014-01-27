@@ -1,4 +1,4 @@
 Rails.application.config.middleware.use OmniAuth::Builder do
-  provider :mercadolibre, "6308356104202656", "LX7hGeepzjp2kjhc2m9SqF5BnJ6C2TIg",
+  provider :mercadolibre, "7835951963654614", "9bq41Nyi9xlj8TsYdrjqVBzXVlleh2iC",
     :client_options => {:ssl => {:ca_path => '/etc/ssl/certs'}}
 end
